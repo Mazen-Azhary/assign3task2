@@ -1,0 +1,85 @@
+body {
+  background-image: url("../img/sunsetbg.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  text-align: center;
+  font-family: 'Cairo', sans-serif;
+
+}
+
+nav {
+
+  height: 60px;
+  
+  
+}
+h1 {
+  text-align: center;
+  color: #18181b;
+}
+.cclub {
+  color: #e2e8f0;
+  font-size: 45px;
+
+  white-space: nowrap;
+}
+p {
+  color: #e2e8f0;
+  text-align: center;
+}
+iframe {
+  /* background-color: #f59e0b;
+  font-size: 25px;
+  margin-right: 30%;
+  font-weight: bold;
+  text-align: center;
+  display: block;
+  white-space: nowrap;
+  font-weight: bold; */
+  width: 100%;
+}
+span {
+  text-align: center;
+  width: 55%;
+  height: 60%;
+  display: inline-block;
+
+  padding: 10px;
+  margin: 10px 0px;
+}
+img {
+  height: 30px;
+  font-weight: bold;
+}
+
+nav h1{
+  margin: 0;
+  text-align: left;
+  
+}
+p img{
+  height: 200px;
+  width: 200px;
+}
+p{
+  text-align: center;
+  color: #e2e8f0;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+button {
+  background-color: #8f8ac0;
+  color: #171435;
+  margin: auto;
+}
+button:hover {
+  
+  color: #631900;
+}
+span,nav,button:hover{
+background-color: #f59e0b;
+}
+body p{text-align: center;}
